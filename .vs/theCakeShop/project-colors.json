@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "391755e1-0217-4ed9-a71c-586caf727319": {
+      "ProjectGuid": "391755e1-0217-4ed9-a71c-586caf727319",
+      "DisplayName": "theCakeShop.DataLayer",
+      "ColorIndex": 0
+    },
+    "f29e20e1-e335-456b-b435-6acd7f671227": {
+      "ProjectGuid": "f29e20e1-e335-456b-b435-6acd7f671227",
+      "DisplayName": "theCakeShop.ApplicationLayer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

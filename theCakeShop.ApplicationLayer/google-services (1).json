@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292192743080",
+    "project_id": "thecakeshop-fe7a3",
+    "storage_bucket": "thecakeshop-fe7a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292192743080:android:2ba36040fb20fedf679c9d",
+        "android_client_info": {
+          "package_name": "the.cake.shop_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292192743080-hebp2d1ojq7kv7pkip3otth86igh1fbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISo9CxRcu7iw7208Kahd5eoUGgK565vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292192743080-hebp2d1ojq7kv7pkip3otth86igh1fbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
